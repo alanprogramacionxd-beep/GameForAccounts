@@ -1,2 +1,0 @@
-# GameForAccounts
-Hola, Hello
